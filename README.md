@@ -29,7 +29,7 @@ Note: The file 'data.json' was created using the following command.
 scrapy crawl advices -o data.json
 ```
 
-5. To access the scrapy shell : 
+4. To access the scrapy shell : 
 
  ```
 scrapy shell " <url> "
